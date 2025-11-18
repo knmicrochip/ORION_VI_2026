@@ -47,6 +47,7 @@ Electronic schematics, PCB designs, firmware, and subsystem architecture.
 ### **Technical Leads**
 
 * **Software Lead:** *Jan Kwapiński*
+* **Software Guru:** *Krzysztof Kruk*
 * **Electronics Lead:** *Piotr Królik*
 * **Mechanics Lead:** *Bartek Kucio*
 * **Drone Lead:** *Szymon Rybka*
