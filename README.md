@@ -7,7 +7,7 @@
 <!-- TEAM PHOTO -->
 
 <p align="center">
-  <img src="assets/team.png" width="250">
+  <img src="assets/team.jpg" width="250">
 </p>
 
 ---
