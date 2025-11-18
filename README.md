@@ -1,14 +1,11 @@
 <!-- LOGO -->
 
 <p align="center">
-  <img src="assets/logo.png" width="250">
+  <img src="assets/logo.png" width="1000">
 </p>
 
 <!-- TEAM PHOTO -->
 
-<p align="center">
-  <img src="assets/team.jpg" width="250">
-</p>
 
 ---
 
@@ -66,7 +63,10 @@ Electronic schematics, PCB designs, firmware, and subsystem architecture.
 * **Mechanics Lead:** *Bartek Kucio*
 * **Drone Lead:** *Szymon Rybka*
 
-*(Replace placeholder names with the real ones.)*
+<p align="center">
+  <img src="assets/team.jpg" width="1000">
+</p>
+
 
 ---
 
