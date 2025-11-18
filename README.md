@@ -1,15 +1,3 @@
-<!-- LOGO -->
-
-<p align="center">
-  <img src="assets/logo.png" width="1000">
-</p>
-
-<!-- TEAM PHOTO -->
-
-
----
-
----
 
 # **Orion VI – Mars Rover Project (ERC 2026)**
 
