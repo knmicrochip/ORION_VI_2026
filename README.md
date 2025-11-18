@@ -76,10 +76,3 @@ Follow us and stay updated:
 
 * **Facebook:** *https://www.facebook.com/orion.pollub*
 * **Instagram:** *https://www.instagram.com/projekt.orion/*
-
----
-
-If you want, I can:
-✓ add clickable badges,
-✓ prepare a better header layout,
-✓ generate a nicer, more stylized README with colors and sections.
