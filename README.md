@@ -1,2 +1,85 @@
-# ORION_VI_2026
-Official repository of the Orion VI Mars Rover and our autonomous drone developed for ERC 2026. Includes software, electronics, mechanical designs, navigation systems, and mission modules built by the Microchip student team.
+Here is the updated README with dedicated places for the **team logo** and **team photo**:
+
+---
+
+# **Orion VI – Mars Rover Project (ERC 2026)**
+
+
+This repository contains the complete technical resources for the **Orion VI Mars Rover**, developed by the **Microchip Scientific Student Association** at **Lublin University of Technology**, Faculty of Electrical Engineering, **Department of Electronics and Information Technology**.
+
+We are currently designing a modular Mars rover and an autonomous drone for the **European Rover Challenge 2026**.
+
+---
+
+## 🚀 **About the Project**
+
+In this repository, you will find:
+
+### **📘 Documentation**
+
+Complete documentation of the Orion VI rover and all subsystem details.
+
+### **💻 Rover Software**
+
+Software for:
+
+* on-board control and decision systems
+* navigation and autonomy
+* communication and telemetry
+* ground station tools
+  Each folder includes a README with the **module author** listed at the top.
+
+### **🛠️ Mechanics**
+
+CAD models, assemblies, structural design, and mechanical analysis.
+
+### **🔌 Electronics**
+
+Electronic schematics, PCB designs, firmware, and subsystem architecture.
+
+---
+
+## 👥 **Team Structure**
+
+### **Supervisors**
+
+* **Scientific Supervisor:** *[Name]*
+* **President of the Student Association:** *[Name]*
+* **Vice President:** *[Name]*
+
+### **Technical Leads**
+
+* **Software Lead:** *[Name]*
+* **Electronics Lead:** *[Name]*
+* **Mechanics Lead:** *[Name]*
+* **Drone Lead:** *[Name]*
+
+*(Replace placeholder names with the real ones.)*
+
+---
+
+## 📂 **Repository Structure**
+
+```
+/docs               – project documentation
+/software           – rover and drone software + module descriptions
+/mechanics          – CAD, assemblies, mechanical analysis
+/electronics        – schematics, PCB, firmware
+/drone              – autonomous drone development
+```
+
+---
+
+## 📞 **Contact**
+
+Follow us and stay updated:
+
+* **Facebook:** *link*
+* **Instagram:** *link*
+
+---
+
+If you want, I can:
+✓ add clickable badges,
+✓ prepare a better header layout,
+✓ generate a nicer, more stylized README with colors and sections.
