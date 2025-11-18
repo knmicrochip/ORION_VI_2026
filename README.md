@@ -1,13 +1,13 @@
 <!-- LOGO -->
 
 <p align="center">
-  <img src="LINK_TO_LOGO" alt="Microchip Logo" width="250"/>
+  <img src="assets/logo.png" width="250">
 </p>
 
 <!-- TEAM PHOTO -->
 
 <p align="center">
-  <img src="LINK_TO_TEAM_PHOTO" alt="Team Photo" width="600"/>
+  <img src="assets/team.png" width="250">
 </p>
 
 ---
@@ -55,16 +55,16 @@ Electronic schematics, PCB designs, firmware, and subsystem architecture.
 
 ### **Supervisors**
 
-* **Scientific Supervisor:** *[Name]*
-* **President of the Student Association:** *[Name]*
-* **Vice President:** *[Name]*
+* **Scientific Supervisor:** *Marcin MAciejewski*
+* **President of the Student Association:** *Matvii Aksenko*
+* **Vice President:** *Mateusz Kowalik*
 
 ### **Technical Leads**
 
-* **Software Lead:** *[Name]*
-* **Electronics Lead:** *[Name]*
-* **Mechanics Lead:** *[Name]*
-* **Drone Lead:** *[Name]*
+* **Software Lead:** *Jan Kwapiński*
+* **Electronics Lead:** *Piotr Królik*
+* **Mechanics Lead:** *Bartek Kucio*
+* **Drone Lead:** *Szymon Rybka*
 
 *(Replace placeholder names with the real ones.)*
 
@@ -86,8 +86,8 @@ Electronic schematics, PCB designs, firmware, and subsystem architecture.
 
 Follow us and stay updated:
 
-* **Facebook:** *link*
-* **Instagram:** *link*
+* **Facebook:** *https://www.facebook.com/orion.pollub*
+* **Instagram:** *https://www.instagram.com/projekt.orion/*
 
 ---
 
