@@ -1,4 +1,16 @@
-Here is the updated README with dedicated places for the **team logo** and **team photo**:
+<!-- LOGO -->
+
+<p align="center">
+  <img src="LINK_TO_LOGO" alt="Microchip Logo" width="250"/>
+</p>
+
+<!-- TEAM PHOTO -->
+
+<p align="center">
+  <img src="LINK_TO_TEAM_PHOTO" alt="Team Photo" width="600"/>
+</p>
+
+---
 
 ---
 
