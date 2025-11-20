@@ -40,7 +40,7 @@ Electronic schematics, PCB designs, firmware, and subsystem architecture.
 
 ### **Supervisors**
 
-* **Scientific Supervisor:** *Marcin MAciejewski*
+* **Scientific Supervisor:** *Marcin Maciejewski*
 * **President of the Student Association:** *Matvii Aksenko*
 * **Vice President:** *Mateusz Kowalik*
 
