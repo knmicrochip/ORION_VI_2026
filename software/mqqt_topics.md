@@ -17,5 +17,33 @@ Subcribers ESP:
  - Science_cmd  
  - Light_cmd  
 
+IP adresses:
+- Suspension_left: 192.168.1.51
+- Suspension_Right: 192.168.1.52
+- Robotic_Arm: 192.168.1.53
+- Vacuum : 192.168.1.54
+- Science: 192.168.1.55
+- Power: 192.168.1.56
+
+
+
+{
+ "eventType": "Propulsion_cmd",        // chassis telemetry unique firmware identifier
+ "payload": {
+    "fl_angV": "<<float32>>",    // front-left wheel angular velocity in rad/s
+    "fr_angV": "<<float32>>",    // front-right wheel angular velocity in rad/s
+    "rl_angV": "<<float32>>",    // rear-left wheel angular velocity in rad/s
+    "rr_angV": "<<float32>>",    // rear-right wheel angular velocity in rad/s
+    "fl_speed": "<<float32>>",      // front-left wheel speed in range [0, 40]
+    "fr_speed": "<<float32>>",      // front-right wheel speed in range [0, 40]
+    "rl_speed": "<<float32>>",      // rear-left wheel speed in range [0, 40]
+    "rr_speed": "<<float32>>",      // rear-right wheel speed in range [0, 40]
+ }
+}
+
+
+
+
+
 
   
