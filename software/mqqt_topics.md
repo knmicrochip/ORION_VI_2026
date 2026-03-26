@@ -30,15 +30,16 @@ IP adresses:
 {
  "eventType": "Propulsion_cmd",        // chassis telemetry unique firmware identifier
  "payload": {
-    "fl_angV": "<<float32>>",    // front-left wheel angular velocity in rad/s
-    "fr_angV": "<<float32>>",    // front-right wheel angular velocity in rad/s
-    "rl_angV": "<<float32>>",    // rear-left wheel angular velocity in rad/s
-    "rr_angV": "<<float32>>",    // rear-right wheel angular velocity in rad/s
+    "fl_rad": "<<float32>>",    // front-left angular position in rad 
+    "fr_rad": "<<float32>>",    // front-right angular position in rad 
+    "rl_rad": "<<float32>>",    // rear-left angular position in rad 
+    "rr_rad": "<<float32>>",    // rear-right  angular position in rad 
     "fl_speed": "<<float32>>",      // front-left wheel speed in range [0, 40]
     "fr_speed": "<<float32>>",      // front-right wheel speed in range [0, 40]
     "rl_speed": "<<float32>>",      // rear-left wheel speed in range [0, 40]
     "rr_speed": "<<float32>>",      // rear-right wheel speed in range [0, 40]
  }
+ "":
 }
 
 
