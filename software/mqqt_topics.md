@@ -26,7 +26,7 @@ IP adresses:
 - Power: 192.168.1.56
 
 
-
+```
 {
  "eventType": "Propulsion_cmd",        // chassis telemetry unique firmware identifier
  "payload": {
@@ -63,3 +63,4 @@ IP adresses:
     }
 }
   
+```
