@@ -1,3 +1,5 @@
+
+
 Topic names:
 
 
@@ -26,6 +28,7 @@ IP adresses:
 - Power: 192.168.1.56
 
 
+## DPERACATED SEE: https://github.com/knmicrochip/ORION_VI_PROPULSION_SYSTEM
 ```
 {
  "eventType": "Propulsion_cmd",        // chassis telemetry unique firmware identifier
