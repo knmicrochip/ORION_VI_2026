@@ -23,8 +23,7 @@ IP adresses:
 - Suspension_left: 192.168.1.51
 - Suspension_Right: team account192.168.1.52
 - Robotic_Arm: 192.168.1.53
-- Vacuum : 192.168.1.54
-- Science: 192.168.1.55
+- Vacuum (Science): 192.168.1.54
 - Power: 192.168.1.56
 
 
